@@ -1,0 +1,20 @@
+{
+    "name": "mrbohem/livewire-datatable",
+    "description": "simple datable with CRUD operation for Livewire",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrbohem",
+            "email": "09sh27up@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Mrbohem\\LivewireDatatable\\": "src/"
+        }
+    }
+}
